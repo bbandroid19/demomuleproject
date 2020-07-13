@@ -35,8 +35,6 @@
 				      <uri>https://anypoint.mulesoft.com</uri>
 				      <muleVersion>4.3.0</muleVersion>
 				      <businessGroup>NJC Labs</businessGroup>
-				      <username>basil_njclabs</username>
-				      <password>Mule123</password>
 				      <applicationName>basil-hello-world</applicationName>
 				      <environment>Sandbox</environment>
 				      <region>us-east-1</region>
