@@ -1,6 +1,11 @@
+# Maven
+# Build and deploy Mule project and run tests with Apache Maven.
 
 trigger:
 - master
+
+variables:
+  - group: build.variables
 
 pool:
   vmImage: 'ubuntu-latest'
